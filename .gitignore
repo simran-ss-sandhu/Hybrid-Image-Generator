@@ -1,0 +1,5 @@
+# PyCharm Project Settings
+.idea/
+
+# Python Bytecode Cache
+__pycache/
