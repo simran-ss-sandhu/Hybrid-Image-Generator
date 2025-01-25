@@ -29,11 +29,14 @@ This project is a tool for creating hybrid images. These are optical illusions t
 ## Installation
 
 1. **Clone the repository**
-    ```bash
+   ```bash
    git clone https://github.com/simran-ss-sandhu/Hybrid-Image-Generator.git
+   ```
+2. **Navigate to the project directory**
+   ```
    cd Hybrid-Image-Generator
    ```
-2. **Set up a virtual environment (optional but recommended)**
+3. **Set up a virtual environment (optional but recommended)**
    - **Windows**
       ```bash
      python -m venv venv
@@ -44,8 +47,8 @@ This project is a tool for creating hybrid images. These are optical illusions t
       python -m venv venv
       source venv/bin/activate
       ```
-3. **Install dependencies**
-    ```bash
+4. **Install dependencies**
+   ```bash
    pip install -r requirements.txt
    ```
 
