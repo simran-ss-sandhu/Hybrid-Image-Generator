@@ -39,13 +39,11 @@ This project is a tool for creating hybrid images. These are optical illusions t
 3. **Set up a virtual environment (optional but recommended)**
    - **Windows**
       ```bash
-     python -m venv venv
-      source venv\Scripts\activate
-     ```
+      python -m venv venv && venv\Scripts\activate
+      ```
    - **UNIX (Linux, MacOS, etc.)**
       ```bash
-      python -m venv venv
-      source venv/bin/activate
+      python -m venv venv && source venv/bin/activate
       ```
 4. **Install dependencies**
    ```bash
